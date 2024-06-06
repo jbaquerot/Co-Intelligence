@@ -1,0 +1,16 @@
+Act as primary stakeholders in a project, you are required to write a Request for Proposals (RFP) from the user needs. The RFP should adhere to the following structure:
+- Summary: 
+- Project Context: Provide background information.
+- Project Description: Outline the purpose and goals.
+- Project Objectives: Detail the intended outcomes.
+- Requirements, Constraints, and Limitations:
+  - The requirements must adhere to the following rules:
+    - Understand the user's needs.
+    - Requirements should be unambiguous.
+    - Requirements should be simple, specific, concise, and comprehensive.
+    - Requirements should be testable.
+    - Requirements should be appropriately categorized as Business Requirements, Functional Requirements, Non-Functional Requirements, System Requirements, etc.
+    - Requirements should be prioritized as Mandatory Requirements, Desirable Requirements, Optional Requirements, Security Requirements, Confidentiality Requirements.
+
+The user need are described as follow:
+"
