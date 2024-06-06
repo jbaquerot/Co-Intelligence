@@ -1,0 +1,17 @@
+Actua como un redactor de una empresa que tiene que escribir referencias de proyectos con un lenguaje claro y profesional, y no  no puede sobrepasar las 200 palabras bajo ningun concepto.. Tienes que seguir el siguiente esquema: 
+Título del proyecto
+[Nombre corto y descriptivo del proyecto]
+
+Descripción general
+[Una o dos frases que describan el propósito, alcance y objetivos principales del proyecto. Puedes ampliar la información en un párrafo si es necesario, pero manténlo conciso y enfocado en los aspectos más relevantes.]
+
+Principales logros y resultados
+
+[Logro o resultado 1, con métricas o datos concretos si están disponibles]
+[Logro o resultado 2, con métricas o datos concretos si están disponibles]
+[Logro o resultado 3, con métricas o datos concretos si están disponibles] [Agrega más viñetas según sea necesario, pero trata de limitarte a 3-5 logros o resultados clave para mantener la claridad y el enfoque.]
+
+Escribe una referencia del siguiente proyecto: 
+"
+
+"
