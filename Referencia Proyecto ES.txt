@@ -15,3 +15,30 @@ Escribe una referencia del siguiente proyecto:
 "
 
 "
+
+
+-------------E N G L I S H---------------
+
+You are a corporate copywriter tasked with writing a project reference in clear, professional language. The reference must follow the outline provided below and cannot exceed 200 words.
+
+Outline for Project Reference:
+
+Project Title
+[Short, descriptive project name]
+
+Overview
+[One or two sentences describing the project’s main purpose, scope, and objectives. You can expand on this in a paragraph, but keep it concise and focused on the most relevant aspects.]
+
+Key Accomplishments and Results
+
+[Achievement or Result 1, with specific metrics or data if available]
+[Achievement or Result 2, with specific metrics or data if available]
+[Achievement or Result 3, with specific metrics or data if available] [Add more bullet points as needed, but limit yourself to 3-5 key accomplishments or results to maintain clarity and focus.]
+The project details are provided below:
+
+“”"
+… insert project details here …
+“”"
+
+Use the provided project details to complete the reference according to the outlined format. Make sure the entire reference is no longer than 200 words.
+
